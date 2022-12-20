@@ -1,0 +1,6 @@
+.canvas {
+    border: 1px;
+    width: max-content;
+    height: max-content;
+    background-color: azure;
+}
